@@ -1,0 +1,22 @@
+/*
+
+id_quetion
+name_question
+source_type (image , sound , video , none)
+source_link
+type_question ( single , multi , shortAnwer , longAnswer , compare ,trueorfalse , attach)
+answers [
+// single value
+    (
+        id ,
+        name ,
+        isCorrect
+    )
+
+]
+
+
+
+
+
+*/

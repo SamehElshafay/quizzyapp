@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "490811759229",
+    "project_id": "appquizzy-9ec11",
+    "storage_bucket": "appquizzy-9ec11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490811759229:android:cca6ad328b3b85462caf14",
+        "android_client_info": {
+          "package_name": "com.jitsco.appquizzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490811759229-ge6mfqfsdipodtq1mgf8nj641345utr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jitsco.appquizzy",
+            "certificate_hash": "372646102fae06c2df3d8127cd6d45443f6d1ddd"
+          }
+        },
+        {
+          "client_id": "490811759229-f34odolpfoijoqjbr1dnf5b516qh8bjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpCzqmFwOZk8mgyiCk2LmrNuPRFNeSiAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490811759229-f34odolpfoijoqjbr1dnf5b516qh8bjc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490811759229-9fj867jvqnhfjs9ne5hg7t46i2u239sd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jitsco.appquizzy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
